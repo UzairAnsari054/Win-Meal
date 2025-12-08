@@ -1,4 +1,4 @@
-package com.example.winmeal.ui.theme
+package com.example.winmeal.core.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
